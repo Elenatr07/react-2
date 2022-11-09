@@ -1,5 +1,6 @@
+import React from "react";
 import "./App.css";
-import { FormMessage } from "./components/Form/FormMessage";
+import { FormMessage } from "./Сomponents/Form/FormMessage";
 
 export function App() {
   return (
