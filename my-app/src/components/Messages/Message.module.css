@@ -1,0 +1,26 @@
+.title {
+    margin-bottom: 20px;
+}
+
+.formMessage {
+    margin-bottom: 20px;
+    background-color: bisque;
+    padding: 15px;
+    border-radius: 10px;
+}
+
+.input {
+    padding: 20px;
+    border-radius: 10px;
+    margin-right: 10px;
+}
+
+.btn {
+    padding: 20px;
+    border-radius: 10px;
+
+}
+
+.btn:active {
+    background-color: green;
+}
